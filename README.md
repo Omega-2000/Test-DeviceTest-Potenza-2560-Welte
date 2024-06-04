@@ -30,7 +30,7 @@
 - "I2C_" : libreria personalizzata per il test dell'i2c, basata sulla libreria "Wire"
 - "INGRESSI_" : libreria personalizzata per il test dei vari ingressi utilizzati in macchina
 - "USCITE_" : libreria personalizzata per il test delle varie uscite utilizzate in macchina
-- "MOTORE_" : libreria personalizzata per il test dei 2 motori che vengono gestiti dalla scheda, basata sulla classe "MotorDriver"
+- "MOTORE_" : libreria personalizzata per il test del motore che viene gestito dalla scheda, basata sulla classe "MotorDriver"
 - "EMERGENZE_" : libreria personalizzata per il test dell'emergenze gestite dalla scheda
 
 **FUNZIONAMENTO IN SINTESI**
